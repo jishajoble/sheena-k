@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @sheena-k
+- 👋 Hi, I’m @Jisha Jose
 - 💞️ I’m looking to collaborate on Data Science and Analytics Projects.
-- 📫 How to reach me : sksheena@gmail.com
+- 📫 How to reach me : jishadanijose@gmail.com
 
-<!---
-sheena-k/sheena-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
